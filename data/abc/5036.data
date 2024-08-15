@@ -1,0 +1,2571 @@
+
+Configuration IP de Windows
+
+    safebrowsing.googleapis.com
+    ----------------------------------------
+    Nom d'enregistrement. : safebrowsing.googleapis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 123
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 172.217.168.170
+
+
+    sync.richaudience.com
+    ----------------------------------------
+    Nom d'enregistrement. : sync.richaudience.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 74
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 138.201.8.249
+
+
+    www.gstatic.com
+    ----------------------------------------
+    Nom d'enregistrement. : www.gstatic.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 16
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.184.163
+
+
+    dis.criteo.com
+    ----------------------------------------
+    Nom d'enregistrement. : dis.criteo.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 1527
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : widget.fr3.vip.prod.criteo.com
+
+
+    Nom d'enregistrement. : widget.fr3.vip.prod.criteo.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1527
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 178.250.7.11
+
+
+    sm1.selectmedia.asia
+    ----------------------------------------
+    Nom d'enregistrement. : sm1.selectmedia.asia
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 73
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 34.107.214.50
+
+
+    instagram.fcgh69-1.fna.fbcdn.net
+    ----------------------------------------
+    Nom d'enregistrement. : instagram.fcgh69-1.fna.fbcdn.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 152
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 201.6.53.162
+
+
+    ib.adnxs.com
+    ----------------------------------------
+    Nom d'enregistrement. : ib.adnxs.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 68
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : xandr-g-geo.trafficmanager.net
+
+
+    Nom d'enregistrement. : xandr-g-geo.trafficmanager.net
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 68
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : ib.anycast.adnxs.com
+
+
+    Nom d'enregistrement. : ib.anycast.adnxs.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 68
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 37.252.173.215
+
+
+    Nom d'enregistrement. : ib.anycast.adnxs.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 68
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 37.252.171.149
+
+
+    Nom d'enregistrement. : ib.anycast.adnxs.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 68
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 37.252.171.52
+
+
+    Nom d'enregistrement. : ib.anycast.adnxs.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 68
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 37.252.171.53
+
+
+    Nom d'enregistrement. : ib.anycast.adnxs.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 68
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 37.252.171.21
+
+
+    Nom d'enregistrement. : ib.anycast.adnxs.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 68
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 37.252.172.123
+
+
+    Nom d'enregistrement. : ib.anycast.adnxs.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 68
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 37.252.171.85
+
+
+    u.openx.net
+    ----------------------------------------
+    Nom d'enregistrement. : u.openx.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 618
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 34.98.64.218
+
+
+    Nom d'enregistrement. : u.openx.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 618
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 35.244.159.8
+
+
+    prebid-s2s.media.net
+    ----------------------------------------
+    Nom d'enregistrement. : prebid-s2s.media.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 68
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 34.107.148.139
+
+
+    ads.dxkulture.com
+    ----------------------------------------
+    Nom d'enregistrement. : ads.dxkulture.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1955
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 45.55.126.71
+
+
+    tr.blismedia.com
+    ----------------------------------------
+    Nom d'enregistrement. : tr.blismedia.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1432
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 34.96.105.8
+
+
+    ogs.google.com
+    ----------------------------------------
+    Nom d'enregistrement. : ogs.google.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 15
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : www3.l.google.com
+
+
+    Nom d'enregistrement. : www3.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 15
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.200.110
+
+
+    user-images.githubusercontent.com
+    ----------------------------------------
+    Nom d'enregistrement. : user-images.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1288
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.111.133
+
+
+    Nom d'enregistrement. : user-images.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1288
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.108.133
+
+
+    Nom d'enregistrement. : user-images.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1288
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.110.133
+
+
+    Nom d'enregistrement. : user-images.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1288
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.109.133
+
+
+    www.googletagmanager.com
+    ----------------------------------------
+    Nom d'enregistrement. : www.googletagmanager.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 16
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.185.8
+
+
+    farm.plista.com
+    ----------------------------------------
+    Nom d'enregistrement. : farm.plista.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 59331
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 127.0.0.1
+
+
+    ums.acuityplatform.com
+    ----------------------------------------
+    Nom d'enregistrement. : ums.acuityplatform.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1644
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 154.59.122.79
+
+
+    rtb.fr3.eu.criteo.com
+    ----------------------------------------
+    Nom d'enregistrement. : rtb.fr3.eu.criteo.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 822
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : rtb.fr3.vip.prod.criteo.com
+
+
+    Nom d'enregistrement. : rtb.fr3.vip.prod.criteo.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 822
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 178.250.7.12
+
+
+    player.adtelligent.com
+    ----------------------------------------
+    Nom d'enregistrement. : player.adtelligent.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 62
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : cdn53833466.ahacdn.me
+
+
+    Nom d'enregistrement. : cdn53833466.ahacdn.me
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 62
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 45.133.44.3
+
+
+    Nom d'enregistrement. : cdn53833466.ahacdn.me
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 62
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 45.133.44.4
+
+
+    play.google.com
+    ----------------------------------------
+    Nom d'enregistrement. : play.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 15
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.201.78
+
+
+    csync.loopme.me
+    ----------------------------------------
+    Nom d'enregistrement. : csync.loopme.me
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 1550
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : envoy-hl.envoy-csync1.core-b8mf.ov1o.com
+
+
+    Nom d'enregistrement. : envoy-hl.envoy-csync1.core-b8mf.ov1o.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1550
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 35.214.169.107
+
+
+    Nom d'enregistrement. : envoy-hl.envoy-csync1.core-b8mf.ov1o.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1550
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 35.214.211.212
+
+
+    Nom d'enregistrement. : envoy-hl.envoy-csync1.core-b8mf.ov1o.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1550
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 35.214.165.106
+
+
+    Nom d'enregistrement. : envoy-hl.envoy-csync1.core-b8mf.ov1o.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1550
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 35.214.177.31
+
+
+    Nom d'enregistrement. : envoy-hl.envoy-csync1.core-b8mf.ov1o.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1550
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 35.214.230.3
+
+
+    Nom d'enregistrement. : envoy-hl.envoy-csync1.core-b8mf.ov1o.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1550
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 34.1.241.144
+
+
+    Nom d'enregistrement. : envoy-hl.envoy-csync1.core-b8mf.ov1o.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1550
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 35.214.220.244
+
+
+    Nom d'enregistrement. : envoy-hl.envoy-csync1.core-b8mf.ov1o.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1550
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 35.214.246.146
+
+
+    Nom d'enregistrement. : envoy-hl.envoy-csync1.core-b8mf.ov1o.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1550
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 35.214.247.10
+
+
+    Nom d'enregistrement. : envoy-hl.envoy-csync1.core-b8mf.ov1o.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1550
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 35.214.252.105
+
+
+    crl3.digicert.com
+    ----------------------------------------
+    Nom d'enregistrement. : crl3.digicert.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 3250
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : crl.edge.digicert.com
+
+
+    Nom d'enregistrement. : crl.edge.digicert.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 3250
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : fp2e7a.wpc.2be4.phicdn.net
+
+
+    Nom d'enregistrement. : fp2e7a.wpc.2be4.phicdn.net
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 3250
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : fp2e7a.wpc.phicdn.net
+
+
+    Nom d'enregistrement. : fp2e7a.wpc.phicdn.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 3250
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 192.229.221.95
+
+
+    secure.adnxs.com
+    ----------------------------------------
+    Nom d'enregistrement. : secure.adnxs.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 68
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : xandr-g-geo.trafficmanager.net
+
+
+    Nom d'enregistrement. : xandr-g-geo.trafficmanager.net
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 68
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : ib.anycast.adnxs.com
+
+
+    Nom d'enregistrement. : ib.anycast.adnxs.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 68
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 37.252.171.149
+
+
+    Nom d'enregistrement. : ib.anycast.adnxs.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 68
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 37.252.171.52
+
+
+    Nom d'enregistrement. : ib.anycast.adnxs.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 68
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 37.252.171.21
+
+
+    Nom d'enregistrement. : ib.anycast.adnxs.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 68
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 37.252.173.215
+
+
+    Nom d'enregistrement. : ib.anycast.adnxs.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 68
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 37.252.171.85
+
+
+    Nom d'enregistrement. : ib.anycast.adnxs.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 68
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 37.252.172.123
+
+
+    Nom d'enregistrement. : ib.anycast.adnxs.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 68
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 37.252.171.53
+
+
+    sync.go.sonobi.com
+    ----------------------------------------
+    Nom d'enregistrement. : sync.go.sonobi.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 1137
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : iad-2-sync.go.sonobi.com
+
+
+    Nom d'enregistrement. : iad-2-sync.go.sonobi.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1137
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 69.166.1.67
+
+
+    Nom d'enregistrement. : iad-2-sync.go.sonobi.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1137
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 69.166.1.34
+
+
+    Nom d'enregistrement. : iad-2-sync.go.sonobi.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1137
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 69.166.1.66
+
+
+    Nom d'enregistrement. : iad-2-sync.go.sonobi.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1137
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 69.166.1.35
+
+
+    www.googleadservices.com
+    ----------------------------------------
+    Nom d'enregistrement. : www.googleadservices.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 16
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.200.98
+
+
+    us.shb-sync.com
+    ----------------------------------------
+    Nom d'enregistrement. : us.shb-sync.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1820
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 8.2.110.33
+
+
+    lh3.googleusercontent.com
+    ----------------------------------------
+    Nom d'enregistrement. : lh3.googleusercontent.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 14
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : googlehosted.l.googleusercontent.com
+
+
+    Nom d'enregistrement. : googlehosted.l.googleusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 14
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 216.58.209.65
+
+
+    www.youtube.com
+    ----------------------------------------
+    Nom d'enregistrement. : www.youtube.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 17
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : youtube-ui.l.google.com
+
+
+    Nom d'enregistrement. : youtube-ui.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 17
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.184.14
+
+
+    Nom d'enregistrement. : youtube-ui.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 17
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.184.174
+
+
+    Nom d'enregistrement. : youtube-ui.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 17
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 216.58.215.142
+
+
+    Nom d'enregistrement. : youtube-ui.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 17
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 216.58.209.78
+
+
+    Nom d'enregistrement. : youtube-ui.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 17
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.201.78
+
+
+    Nom d'enregistrement. : youtube-ui.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 17
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.185.14
+
+
+    Nom d'enregistrement. : youtube-ui.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 17
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 172.217.17.14
+
+
+    Nom d'enregistrement. : youtube-ui.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 17
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.200.142
+
+
+    Nom d'enregistrement. : youtube-ui.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 17
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.200.110
+
+
+    Nom d'enregistrement. : youtube-ui.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 17
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.200.78
+
+
+    Nom d'enregistrement. : youtube-ui.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 17
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.178.174
+
+
+    onetag-sys.com
+    ----------------------------------------
+    Nom d'enregistrement. : onetag-sys.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1388
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 51.89.9.252
+
+
+    Nom d'enregistrement. : onetag-sys.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1388
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 51.89.9.251
+
+
+    Nom d'enregistrement. : onetag-sys.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1388
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 51.89.9.253
+
+
+    Nom d'enregistrement. : onetag-sys.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1388
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 51.38.120.206
+
+
+    Nom d'enregistrement. : onetag-sys.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1388
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 51.75.86.98
+
+
+    Nom d'enregistrement. : onetag-sys.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1388
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 51.89.9.254
+
+
+    any-na-tg.rtb.linkedin.com
+    ----------------------------------------
+    Nom d'enregistrement. : any-na-tg.rtb.linkedin.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 180
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 108.174.10.31
+
+
+    tpc.googlesyndication.com
+    ----------------------------------------
+    Nom d'enregistrement. : tpc.googlesyndication.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 17
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.184.161
+
+
+    accounts.google.com
+    ----------------------------------------
+    Nom d'enregistrement. : accounts.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 16
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 74.125.71.84
+
+
+    jnn-pa.googleapis.com
+    ----------------------------------------
+    Nom d'enregistrement. : jnn-pa.googleapis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 73
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.200.106
+
+
+    Nom d'enregistrement. : jnn-pa.googleapis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 73
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.178.170
+
+
+    Nom d'enregistrement. : jnn-pa.googleapis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 73
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.200.74
+
+
+    Nom d'enregistrement. : jnn-pa.googleapis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 73
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 172.217.17.10
+
+
+    Nom d'enregistrement. : jnn-pa.googleapis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 73
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.184.170
+
+
+    Nom d'enregistrement. : jnn-pa.googleapis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 73
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.185.10
+
+
+    Nom d'enregistrement. : jnn-pa.googleapis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 73
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.184.10
+
+
+    Nom d'enregistrement. : jnn-pa.googleapis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 73
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.201.74
+
+
+    Nom d'enregistrement. : jnn-pa.googleapis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 73
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.200.138
+
+
+    static.criteo.net
+    ----------------------------------------
+    Nom d'enregistrement. : static.criteo.net
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 3289
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : static.fr3.vip.prod.criteo.net
+
+
+    Nom d'enregistrement. : static.fr3.vip.prod.criteo.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 3289
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 178.250.7.2
+
+
+    platform-ecst.linkedin.com
+    ----------------------------------------
+    Nom d'enregistrement. : platform-ecst.linkedin.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 1754
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : cs767.wpc.epsiloncdn.net
+
+
+    Nom d'enregistrement. : cs767.wpc.epsiloncdn.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1754
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 152.199.22.144
+
+
+    i.ytimg.com
+    ----------------------------------------
+    Nom d'enregistrement. : i.ytimg.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 14
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.185.22
+
+
+    Nom d'enregistrement. : i.ytimg.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 14
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.178.182
+
+
+    Nom d'enregistrement. : i.ytimg.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 14
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 216.58.215.182
+
+
+    Nom d'enregistrement. : i.ytimg.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 14
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.200.86
+
+
+    Nom d'enregistrement. : i.ytimg.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 14
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.200.150
+
+
+    Nom d'enregistrement. : i.ytimg.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 14
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 172.217.168.182
+
+
+    Nom d'enregistrement. : i.ytimg.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 14
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.201.86
+
+
+    Nom d'enregistrement. : i.ytimg.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 14
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 216.58.209.86
+
+
+    Nom d'enregistrement. : i.ytimg.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 14
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.184.22
+
+
+    Nom d'enregistrement. : i.ytimg.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 14
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 172.217.17.22
+
+
+    Nom d'enregistrement. : i.ytimg.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 14
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.184.182
+
+
+    Nom d'enregistrement. : i.ytimg.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 14
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.200.118
+
+
+    www.googleapis.com
+    ----------------------------------------
+    Nom d'enregistrement. : www.googleapis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 15
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.200.138
+
+
+    Nom d'enregistrement. : www.googleapis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 15
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.184.170
+
+
+    Nom d'enregistrement. : www.googleapis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 15
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.201.74
+
+
+    Nom d'enregistrement. : www.googleapis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 15
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.185.10
+
+
+    Nom d'enregistrement. : www.googleapis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 15
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.200.106
+
+
+    Nom d'enregistrement. : www.googleapis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 15
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.178.170
+
+
+    Nom d'enregistrement. : www.googleapis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 15
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.200.74
+
+
+    Nom d'enregistrement. : www.googleapis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 15
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.184.10
+
+
+    prebid-eu.creativecdn.com
+    ----------------------------------------
+    Nom d'enregistrement. : prebid-eu.creativecdn.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 891
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.184.8.90
+
+
+    content-autofill.googleapis.com
+    ----------------------------------------
+    Nom d'enregistrement. : content-autofill.googleapis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 17
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.185.10
+
+
+    Nom d'enregistrement. : content-autofill.googleapis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 17
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 216.58.209.74
+
+
+    Nom d'enregistrement. : content-autofill.googleapis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 17
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.200.74
+
+
+    Nom d'enregistrement. : content-autofill.googleapis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 17
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.200.138
+
+
+    Nom d'enregistrement. : content-autofill.googleapis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 17
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.184.10
+
+
+    Nom d'enregistrement. : content-autofill.googleapis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 17
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.178.170
+
+
+    Nom d'enregistrement. : content-autofill.googleapis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 17
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.201.74
+
+
+    Nom d'enregistrement. : content-autofill.googleapis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 17
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 172.217.17.10
+
+
+    Nom d'enregistrement. : content-autofill.googleapis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 17
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.184.170
+
+
+    Nom d'enregistrement. : content-autofill.googleapis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 17
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.200.106
+
+
+    Nom d'enregistrement. : content-autofill.googleapis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 17
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 172.217.168.170
+
+
+    eexsync.com
+    ----------------------------------------
+    Nom d'enregistrement. : eexsync.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 235
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 80.77.87.108
+
+
+    google-ohttp-relay-safebrowsing.fastly-edge.com
+    ----------------------------------------
+    Nom d'enregistrement. : google-ohttp-relay-safebrowsing.fastly-edge.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 7
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 146.75.53.91
+
+
+    htlb.casalemedia.com
+    ----------------------------------------
+    Nom d'enregistrement. : htlb.casalemedia.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 28
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 104.18.36.155
+
+
+    Nom d'enregistrement. : htlb.casalemedia.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 28
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 172.64.151.101
+
+
+    ssl.gstatic.com
+    ----------------------------------------
+    Nom d'enregistrement. : ssl.gstatic.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 16
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.200.99
+
+
+    clientservices.googleapis.com
+    ----------------------------------------
+    Nom d'enregistrement. : clientservices.googleapis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 15
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.185.3
+
+
+    pixel-sync.sitescout.com
+    ----------------------------------------
+    Nom d'enregistrement. : pixel-sync.sitescout.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 67
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 34.36.216.150
+
+
+    s.richaudience.com
+    ----------------------------------------
+    Nom d'enregistrement. : s.richaudience.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 178.63.241.79
+
+
+    c1.adform.net
+    ----------------------------------------
+    Nom d'enregistrement. : c1.adform.net
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 13
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : track.adformnet.akadns.net
+
+
+    Nom d'enregistrement. : track.adformnet.akadns.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 13
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 37.157.6.231
+
+
+    Nom d'enregistrement. : track.adformnet.akadns.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 13
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 37.157.6.243
+
+
+    Nom d'enregistrement. : track.adformnet.akadns.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 13
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 37.157.6.237
+
+
+    Nom d'enregistrement. : track.adformnet.akadns.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 13
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 37.157.6.254
+
+
+    Nom d'enregistrement. : track.adformnet.akadns.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 13
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 37.157.6.233
+
+
+    Nom d'enregistrement. : track.adformnet.akadns.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 13
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 37.157.6.232
+
+
+    ssp-sync.criteo.com
+    ----------------------------------------
+    Nom d'enregistrement. : ssp-sync.criteo.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 421
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : ssp-sync.fr3.vip.prod.criteo.com
+
+
+    Nom d'enregistrement. : ssp-sync.fr3.vip.prod.criteo.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 421
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 178.250.7.7
+
+
+    e25768c504212b8912edfcc6036bb2c7.safeframe.googlesyndication.com
+    ----------------------------------------
+    Nom d'enregistrement. : e25768c504212b8912edfcc6036bb2c7.safeframe.googlesyndication.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 31
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : pagead-googlehosted.l.google.com
+
+
+    Nom d'enregistrement. : pagead-googlehosted.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 31
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.200.97
+
+
+    bea95411428b74f20539ed7debf1fca9.safeframe.googlesyndication.com
+    ----------------------------------------
+    Nom d'enregistrement. : bea95411428b74f20539ed7debf1fca9.safeframe.googlesyndication.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 31
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : pagead-googlehosted.l.google.com
+
+
+    Nom d'enregistrement. : pagead-googlehosted.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 31
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.200.97
+
+
+    stk.protechts.net
+    ----------------------------------------
+    Nom d'enregistrement. : stk.protechts.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 12884
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 34.107.199.61
+
+
+    lh5.googleusercontent.com
+    ----------------------------------------
+    Nom d'enregistrement. : lh5.googleusercontent.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 14
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : googlehosted.l.googleusercontent.com
+
+
+    Nom d'enregistrement. : googlehosted.l.googleusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 14
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 216.58.209.65
+
+
+    us.ck-ie.com
+    ----------------------------------------
+    Nom d'enregistrement. : us.ck-ie.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1096
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 8.2.110.97
+
+
+    Nom d'enregistrement. : us.ck-ie.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1096
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 8.2.110.114
+
+
+    Nom d'enregistrement. : us.ck-ie.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1096
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 8.2.110.70
+
+
+    camo.githubusercontent.com
+    ----------------------------------------
+    Nom d'enregistrement. : camo.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2051
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.110.133
+
+
+    Nom d'enregistrement. : camo.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2051
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.109.133
+
+
+    Nom d'enregistrement. : camo.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2051
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.108.133
+
+
+    Nom d'enregistrement. : camo.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2051
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.111.133
+
+
+    rpt.cedexis.com
+    ----------------------------------------
+    Nom d'enregistrement. : rpt.cedexis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 103
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 45.54.49.1
+
+
+    lh3.google.com
+    ----------------------------------------
+    Nom d'enregistrement. : lh3.google.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 161
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : lh2.l.google.com
+
+
+    Nom d'enregistrement. : lh2.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 161
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.201.78
+
+
+    cs.admanmedia.com
+    ----------------------------------------
+    Nom d'enregistrement. : cs.admanmedia.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1174
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 80.77.87.162
+
+
+    startpage.foxitsoftware.com
+    ----------------------------------------
+    Nom d'enregistrement. : startpage.foxitsoftware.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 207
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : startpage.foxitsoftware.com.cdn.cloudflare.net
+
+
+    Nom d'enregistrement. : startpage.foxitsoftware.com.cdn.cloudflare.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 207
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 104.18.8.167
+
+
+    Nom d'enregistrement. : startpage.foxitsoftware.com.cdn.cloudflare.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 207
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 104.18.9.167
+
+
+    telemetry-incoming.r53-2.services.mozilla.com
+    ----------------------------------------
+    Nom d'enregistrement. : telemetry-incoming.r53-2.services.mozilla.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 58
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 34.120.208.123
+
+
+    www.google.com
+    ----------------------------------------
+    Nom d'enregistrement. : www.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 15
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.200.132
+
+
+    p.rfihub.com
+    ----------------------------------------
+    Nom d'enregistrement. : p.rfihub.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 33
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : a.rfihub.com
+
+
+    Nom d'enregistrement. : a.rfihub.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 33
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : a.rfihub.com.akadns.net
+
+
+    Nom d'enregistrement. : a.rfihub.com.akadns.net
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 33
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : a-emea.rfihub.com.akadns.net
+
+
+    Nom d'enregistrement. : a-emea.rfihub.com.akadns.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 33
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 193.0.160.130
+
+
+    btloader.com
+    ----------------------------------------
+    Nom d'enregistrement. : btloader.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 66
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 104.22.74.216
+
+
+    Nom d'enregistrement. : btloader.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 66
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 172.67.41.60
+
+
+    Nom d'enregistrement. : btloader.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 66
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 104.22.75.216
+
+
+    a1832.casalemedia.com
+    ----------------------------------------
+    Nom d'enregistrement. : a1832.casalemedia.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 409
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 85.91.47.103
+
+
+    oa.openxcdn.net
+    ----------------------------------------
+    Nom d'enregistrement. : oa.openxcdn.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1558
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 34.102.146.192
+
+
+    www.google-analytics.com
+    ----------------------------------------
+    Nom d'enregistrement. : www.google-analytics.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 91
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.184.14
+
+
+    apis.google.com
+    ----------------------------------------
+    Nom d'enregistrement. : apis.google.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 49
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : plus.l.google.com
+
+
+    Nom d'enregistrement. : plus.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 49
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.185.14
+
+
+    report2.hb.brainlyads.com
+    ----------------------------------------
+    Nom d'enregistrement. : report2.hb.brainlyads.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1883
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 54.84.92.154
+
+
+    pagead2.googlesyndication.com
+    ----------------------------------------
+    Nom d'enregistrement. : pagead2.googlesyndication.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 16
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.184.162
+
+
+    api.msn.com
+    ----------------------------------------
+    Nom d'enregistrement. : api.msn.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 97
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : api-msn-com.a-0003.a-msedge.net
+
+
+    Nom d'enregistrement. : api-msn-com.a-0003.a-msedge.net
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 97
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : a-0003.a-msedge.net
+
+
+    Nom d'enregistrement. : a-0003.a-msedge.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 97
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 204.79.197.203
+
+
+    raw.githubusercontent.com
+    ----------------------------------------
+    Nom d'enregistrement. : raw.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 538
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.108.133
+
+
+    Nom d'enregistrement. : raw.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 538
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.111.133
+
+
+    Nom d'enregistrement. : raw.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 538
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.110.133
+
+
+    Nom d'enregistrement. : raw.githubusercontent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 538
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.109.133
+
+
+    id5-sync.com
+    ----------------------------------------
+    Nom d'enregistrement. : id5-sync.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 21
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 162.19.138.117
+
+
+    Nom d'enregistrement. : id5-sync.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 21
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 162.19.138.83
+
+
+    Nom d'enregistrement. : id5-sync.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 21
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 162.19.138.119
+
+
+    Nom d'enregistrement. : id5-sync.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 21
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 162.19.138.120
+
+
+    Nom d'enregistrement. : id5-sync.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 21
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 141.95.98.65
+
+
+    Nom d'enregistrement. : id5-sync.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 21
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 162.19.138.82
+
+
+    Nom d'enregistrement. : id5-sync.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 21
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 141.95.98.64
+
+
+    Nom d'enregistrement. : id5-sync.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 21
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 141.95.33.120
+
+
+    Nom d'enregistrement. : id5-sync.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 21
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 162.19.138.116
+
+
+    Nom d'enregistrement. : id5-sync.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 21
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 162.19.138.118
+
+
+    a.nel.cloudflare.com
+    ----------------------------------------
+    Nom d'enregistrement. : a.nel.cloudflare.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 59242
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 35.190.80.1
+
+
+    fundingchoicesmessages.google.com
+    ----------------------------------------
+    Nom d'enregistrement. : fundingchoicesmessages.google.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 14
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : www3.l.google.com
+
+
+    Nom d'enregistrement. : www3.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 14
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.200.110
+
+
+    www.linkedin.com
+    ----------------------------------------
+    Nom d'enregistrement. : www.linkedin.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 14
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : exp1.www.linkedin.com
+
+
+    Nom d'enregistrement. : exp1.www.linkedin.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 14
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : www-linkedin-com.l-0005.l-msedge.net
+
+
+    Nom d'enregistrement. : www-linkedin-com.l-0005.l-msedge.net
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 14
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : l-0005.l-msedge.net
+
+
+    Nom d'enregistrement. : l-0005.l-msedge.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 14
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 13.107.42.14
+
+
+    match.deepintent.com
+    ----------------------------------------
+    Nom d'enregistrement. : match.deepintent.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 71
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : m.deepintent.com
+
+
+    Nom d'enregistrement. : m.deepintent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 71
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 169.197.150.8
+
+
+    Nom d'enregistrement. : m.deepintent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 71
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 169.197.150.7
+
+
+    Nom d'enregistrement. : m.deepintent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 71
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 38.91.45.7
+
+
+    Nom d'enregistrement. : m.deepintent.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 71
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 8.18.47.7
+
+
+    us-u.openx.net
+    ----------------------------------------
+    Nom d'enregistrement. : us-u.openx.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 485
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 34.98.64.218
+
+
+    Nom d'enregistrement. : us-u.openx.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 485
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 35.244.159.8
+
+
+    waa-pa.clients6.google.com
+    ----------------------------------------
+    Nom d'enregistrement. : waa-pa.clients6.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 175
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.200.138
+
+
+    dsum-sec.casalemedia.com
+    ----------------------------------------
+    Nom d'enregistrement. : dsum-sec.casalemedia.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 74
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 172.64.151.101
+
+
+    Nom d'enregistrement. : dsum-sec.casalemedia.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 74
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 104.18.36.155
+
+
+    shepherd.ff.avast.com
+    ----------------------------------------
+    Nom d'enregistrement. : shepherd.ff.avast.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 3522
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : shepherd-gcp.ff.avast.com
+
+
+    Nom d'enregistrement. : shepherd-gcp.ff.avast.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 3522
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 34.160.176.28
+
+
+    fonts.googleapis.com
+    ----------------------------------------
+    Nom d'enregistrement. : fonts.googleapis.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 15
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.184.10
+
+
+    gum.criteo.com
+    ----------------------------------------
+    Nom d'enregistrement. : gum.criteo.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 3281
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : gum.fr3.vip.prod.criteo.com
+
+
+    Nom d'enregistrement. : gum.fr3.vip.prod.criteo.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 3281
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 178.250.7.13
+
+
+    array814.prod.do.dsp.mp.microsoft.com
+    ----------------------------------------
+    Nom d'enregistrement. : array814.prod.do.dsp.mp.microsoft.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1680
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 20.191.95.51
+
+
+    c.pki.goog
+    ----------------------------------------
+    Nom d'enregistrement. : c.pki.goog
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 163
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : pki-goog.l.google.com
+
+
+    Nom d'enregistrement. : pki-goog.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 163
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.184.3
+
+
+    match.adsby.bidtheatre.com
+    ----------------------------------------
+    Nom d'enregistrement. : match.adsby.bidtheatre.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 223
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 64.227.64.62
+
+
+    Nom d'enregistrement. : match.adsby.bidtheatre.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 223
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 134.122.57.34
+
+
+    Nom d'enregistrement. : match.adsby.bidtheatre.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 223
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 188.166.17.21
+
+
+    fp2e7a.wpc.phicdn.net
+    ----------------------------------------
+    Nom d'enregistrement. : fp2e7a.wpc.phicdn.net
+    Type d'enregistrement : 28
+    Dur‚e de vie  . . . . : 1190
+    Longueur de donn‚es . : 16
+    Section . . . . . . . : R‚ponse
+    Enregistrement AAAA . : 2606:2800:233:fa02:67b:9ff6:6107:833
+
+
+    csm.fr3.eu.criteo.net
+    ----------------------------------------
+    Nom d'enregistrement. : csm.fr3.eu.criteo.net
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 1523
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : csm.fr3.vip.prod.criteo.net
+
+
+    Nom d'enregistrement. : csm.fr3.vip.prod.criteo.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1523
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 178.250.7.17
+
+
+    trace-eu.mediago.io
+    ----------------------------------------
+    Nom d'enregistrement. : trace-eu.mediago.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 18
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 35.214.168.80
+
+
+    t.trafmag.com
+    ----------------------------------------
+    Nom d'enregistrement. : t.trafmag.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 177
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 193.200.65.5
+
+
+    lexicon.33across.com
+    ----------------------------------------
+    Nom d'enregistrement. : lexicon.33across.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 16020
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 35.244.193.51
+
+
+    e.serverbid.com
+    ----------------------------------------
+    Nom d'enregistrement. : e.serverbid.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 59473
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : x.serverbid.com
+
+
+    Nom d'enregistrement. : x.serverbid.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 59473
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : exchange.consumabletv.com
+
+
+    Nom d'enregistrement. : exchange.consumabletv.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 59473
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : cx.serverbid.com
+
+
+    Nom d'enregistrement. : cx.serverbid.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 59473
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 159.89.246.130
+
+
+    gchq.github.io
+    ----------------------------------------
+    Nom d'enregistrement. : gchq.github.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2640
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.109.153
+
+
+    Nom d'enregistrement. : gchq.github.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2640
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.110.153
+
+
+    Nom d'enregistrement. : gchq.github.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2640
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.111.153
+
+
+    Nom d'enregistrement. : gchq.github.io
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2640
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.108.153
+
+
+    kevincurran.org
+    ----------------------------------------
+    Nom d'enregistrement. : kevincurran.org
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 264
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 192.250.239.58
+
+
+    data.adsrvr.org
+    ----------------------------------------
+    Nom d'enregistrement. : data.adsrvr.org
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 15793
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : match.adsrvr.org
+
+
+    Nom d'enregistrement. : match.adsrvr.org
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 15793
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 35.71.131.137
+
+
+    Nom d'enregistrement. : match.adsrvr.org
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 15793
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 3.33.220.150
+
+
+    Nom d'enregistrement. : match.adsrvr.org
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 15793
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 15.197.193.217
+
+
+    Nom d'enregistrement. : match.adsrvr.org
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 15793
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 52.223.40.198
+
+
+    lb.eu-1-id5-sync.com
+    ----------------------------------------
+    Nom d'enregistrement. : lb.eu-1-id5-sync.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 82
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 141.95.98.64
+
+
+    Nom d'enregistrement. : lb.eu-1-id5-sync.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 82
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 162.19.138.118
+
+
+    Nom d'enregistrement. : lb.eu-1-id5-sync.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 82
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 162.19.138.120
+
+
+    Nom d'enregistrement. : lb.eu-1-id5-sync.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 82
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 162.19.138.82
+
+
+    Nom d'enregistrement. : lb.eu-1-id5-sync.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 82
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 162.19.138.117
+
+
+    Nom d'enregistrement. : lb.eu-1-id5-sync.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 82
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 162.19.138.116
+
+
+    Nom d'enregistrement. : lb.eu-1-id5-sync.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 82
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 141.95.33.120
+
+
+    Nom d'enregistrement. : lb.eu-1-id5-sync.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 82
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 162.19.138.83
+
+
+    Nom d'enregistrement. : lb.eu-1-id5-sync.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 82
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 141.95.98.65
+
+
+    Nom d'enregistrement. : lb.eu-1-id5-sync.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 82
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 162.19.138.119
+
+
+    s.w.org
+    ----------------------------------------
+    Nom d'enregistrement. : s.w.org
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 8
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 192.0.77.48
+
+
+    bidder.criteo.com
+    ----------------------------------------
+    Nom d'enregistrement. : bidder.criteo.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 1522
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : bidder.fr3.vip.prod.criteo.com
+
+
+    Nom d'enregistrement. : bidder.fr3.vip.prod.criteo.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1522
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 178.250.7.10
+
+
+    api.github.com
+    ----------------------------------------
+    Nom d'enregistrement. : api.github.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 22
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 140.82.121.5
+
+
+    image4.pubmatic.com
+    ----------------------------------------
+    Nom d'enregistrement. : image4.pubmatic.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 13
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : image4-v2.pubmnet.com
+
+
+    Nom d'enregistrement. : image4-v2.pubmnet.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 13
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : spug-amsfpairbc.pubmnet.com
+
+
+    Nom d'enregistrement. : spug-amsfpairbc.pubmnet.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 13
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 198.47.127.20
+
+
+    google.com
+    ----------------------------------------
+    Nom d'enregistrement. : google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 15
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.201.78
+
+
+    fonts.gstatic.com
+    ----------------------------------------
+    Nom d'enregistrement. : fonts.gstatic.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 17
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.201.67
+
+
+    ad.doubleclick.net
+    ----------------------------------------
+    Nom d'enregistrement. : ad.doubleclick.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 18
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 216.58.215.166
+
+
+    www.google.co.ma
+    ----------------------------------------
+    Nom d'enregistrement. : www.google.co.ma
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 15
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.184.163
+
+
+    googleads.g.doubleclick.net
+    ----------------------------------------
+    Nom d'enregistrement. : googleads.g.doubleclick.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 13
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 216.58.209.66
+
+
+    wt.rqtrk.eu
+    ----------------------------------------
+    Nom d'enregistrement. : wt.rqtrk.eu
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 63
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 57.129.18.113
+
+
+    Nom d'enregistrement. : wt.rqtrk.eu
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 63
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 57.129.18.111
+
+
+    Nom d'enregistrement. : wt.rqtrk.eu
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 63
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 57.129.18.121
+
+
+    Nom d'enregistrement. : wt.rqtrk.eu
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 63
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 57.129.18.109
+
+
+    Nom d'enregistrement. : wt.rqtrk.eu
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 63
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 57.129.18.105
+
+
+    eu-u.openx.net
+    ----------------------------------------
+    Nom d'enregistrement. : eu-u.openx.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 282
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 35.244.159.8
+
+
+    Nom d'enregistrement. : eu-u.openx.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 282
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 34.98.64.218
+
+
+    match.adsrvr.org
+    ----------------------------------------
+    Nom d'enregistrement. : match.adsrvr.org
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 15792
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 52.223.40.198
+
+
+    Nom d'enregistrement. : match.adsrvr.org
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 15792
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 35.71.131.137
+
+
+    Nom d'enregistrement. : match.adsrvr.org
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 15792
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 15.197.193.217
+
+
+    Nom d'enregistrement. : match.adsrvr.org
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 15792
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 3.33.220.150
+
+
+    encrypted-tbn0.gstatic.com
+    ----------------------------------------
+    Nom d'enregistrement. : encrypted-tbn0.gstatic.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 119
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.200.142
+
+
+    github.githubassets.com
+    ----------------------------------------
+    Nom d'enregistrement. : github.githubassets.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2571
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.108.154
+
+
+    Nom d'enregistrement. : github.githubassets.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2571
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.109.154
+
+
+    Nom d'enregistrement. : github.githubassets.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2571
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.111.154
+
+
+    Nom d'enregistrement. : github.githubassets.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2571
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 185.199.110.154
+
+
+    2d55fa2cf6990030cdedbbcc0a6d1584.safeframe.googlesyndication.com
+    ----------------------------------------
+    Nom d'enregistrement. : 2d55fa2cf6990030cdedbbcc0a6d1584.safeframe.googlesyndication.com
+    Type d'enregistrement : 5
+    Dur‚e de vie  . . . . : 30
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement CNAME  : pagead-googlehosted.l.google.com
+
+
+    Nom d'enregistrement. : pagead-googlehosted.l.google.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 30
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 142.250.200.97
+
+
