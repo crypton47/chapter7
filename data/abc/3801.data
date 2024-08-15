@@ -1,0 +1,74 @@
+
+Configuration IP de Windows
+
+
+Carte Ethernet Ethernet :
+
+   Statut du m‚dia. . . . . . . . . . . . : M‚dia d‚connect‚
+   Suffixe DNS propre … la connexion. . . : 
+
+Carte r‚seau sans fil Connexion au r‚seau local* 8ÿ:
+
+   Statut du m‚dia. . . . . . . . . . . . : M‚dia d‚connect‚
+   Suffixe DNS propre … la connexion. . . : 
+
+Carte r‚seau sans fil Connexion au r‚seau local* 10ÿ:
+
+   Statut du m‚dia. . . . . . . . . . . . : M‚dia d‚connect‚
+   Suffixe DNS propre … la connexion. . . : 
+
+Carte Ethernet Ethernet 2 :
+
+   Suffixe DNS propre … la connexion. . . : 
+   Adresse IPv6 de liaison locale. . . . .: fe80::31ed:5492:66b3:6e22%9
+   Adresse IPv4. . . . . . . . . . . . . .: 192.168.227.1
+   Masque de sous-r‚seau. . . .ÿ. . . . . : 255.255.255.0
+   Passerelle par d‚faut. . . .ÿ. . . . . : 
+
+Carte Ethernet Ethernet 3 :
+
+   Suffixe DNS propre … la connexion. . . : 
+   Adresse IPv6 de liaison locale. . . . .: fe80::35d6:d4f1:cf4e:edbc%17
+   Adresse IPv4. . . . . . . . . . . . . .: 192.168.111.1
+   Masque de sous-r‚seau. . . .ÿ. . . . . : 255.255.255.0
+   Passerelle par d‚faut. . . .ÿ. . . . . : 
+
+Carte Ethernet Ethernet 4 :
+
+   Suffixe DNS propre … la connexion. . . : 
+   Adresse IPv6 de liaison locale. . . . .: fe80::6331:6784:79a2:358%21
+   Adresse d'autoconfiguration IPv4 . . . : 169.254.56.22
+   Masque de sous-r‚seau. . . .ÿ. . . . . : 255.255.0.0
+   Passerelle par d‚faut. . . .ÿ. . . . . : 
+
+Carte Ethernet Ethernet 5 :
+
+   Suffixe DNS propre … la connexion. . . : myfirewall
+   Adresse IPv6 de liaison locale. . . . .: fe80::6a0a:eb84:3670:50ea%15
+   Adresse d'autoconfiguration IPv4 . . . : 169.254.233.25
+   Masque de sous-r‚seau. . . .ÿ. . . . . : 255.255.0.0
+   Passerelle par d‚faut. . . .ÿ. . . . . : 
+
+Carte Ethernet Ethernet 6 :
+
+   Suffixe DNS propre … la connexion. . . : 
+   Adresse IPv6 de liaison locale. . . . .: fe80::4351:be34:2de2:a46a%13
+   Adresse IPv4. . . . . . . . . . . . . .: 192.168.66.1
+   Masque de sous-r‚seau. . . .ÿ. . . . . : 255.255.255.0
+   Passerelle par d‚faut. . . .ÿ. . . . . : 
+
+Carte Ethernet Ethernet 7 :
+
+   Suffixe DNS propre … la connexion. . . : home.arpa
+   Adresse IPv6 de liaison locale. . . . .: fe80::1f9:ff8a:1824:254a%22
+   Adresse d'autoconfiguration IPv4 . . . : 169.254.151.161
+   Masque de sous-r‚seau. . . .ÿ. . . . . : 255.255.0.0
+   Passerelle par d‚faut. . . .ÿ. . . . . : 
+
+Carte r‚seau sans fil Wi-Fiÿ:
+
+   Suffixe DNS propre … la connexion. . . : 
+   Adresse IPv6 de liaison locale. . . . .: fe80::7724:b7db:12ed:d99e%18
+   Adresse IPv4. . . . . . . . . . . . . .: 192.168.1.44
+   Masque de sous-r‚seau. . . .ÿ. . . . . : 255.255.255.0
+   Passerelle par d‚faut. . . .ÿ. . . . . : 192.168.1.1
